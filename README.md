@@ -52,3 +52,6 @@ To replicate this project, clone the repository and install the required depende
 git clone https://github.com/mayankbaluni/StrokeRiskPredictor.git
 cd stroke-prediction
 pip install -r requirements.txt
+
+## Contact
+For any queries or suggestions, feel free to contact me at [mayankbaluni@gmail.com]
