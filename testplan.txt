@@ -1,0 +1,31 @@
+Testing Plan 
+|
+|-- Unit Testing
+|   |-- Function Tests
+|   |-- Data Loading and Processing Tests
+|   `-- Model Input/Output Tests
+|
+|-- Integration Testing
+|   |-- Data Pipeline Test
+|   |-- Model Training Process Test
+|   `-- End-to-End Workflow Test
+|
+|-- Performance Testing
+|   |-- Model Accuracy Test
+|   |-- Speed and Efficiency Test
+|   `-- Scenario-based Test
+|
+|-- Validation Testing
+|   |-- Cross-Validation
+|   |-- External Dataset Test
+|   `-- Known Outcome Validation
+|
+|-- Regression Testing
+|   |-- Post-Modification Test
+|   |-- Continuous Integration Testing
+|   `-- Continuous Testing in Development Cycle
+|
+`-- User Acceptance Testing (UAT)
+    |-- Domain Expert Review
+    |-- Real-World Scenario Testing
+    `-- Stakeholder Feedback
