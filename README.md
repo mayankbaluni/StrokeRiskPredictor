@@ -55,6 +55,7 @@ pip install -r requirements.txt
 
 # End of script
 exit 0
+```
 
 ## Contact
 For any queries or suggestions, feel free to contact me at [mayankbaluni@gmail.com]
